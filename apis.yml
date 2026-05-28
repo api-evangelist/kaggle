@@ -1,0 +1,32 @@
+aid: kaggle
+name: Kaggle
+description: "Create and interact with Datasets, Notebooks, and connect with Kaggle"
+url: https://www.kaggle.com/docs/api
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Open Data"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Open Data
+  - Public APIs
+apis:
+  - name: Kaggle
+    description: "Create and interact with Datasets, Notebooks, and connect with Kaggle"
+    humanURL: https://www.kaggle.com/docs/api
+    baseURL: https://www.kaggle.com/docs/api
+    tags:
+      - Open Data
+    properties:
+      - type: Documentation
+        url: https://www.kaggle.com/docs/api
+common:
+  - type: Website
+    url: https://www.kaggle.com/docs/api
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
