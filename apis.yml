@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/kaggle.png
 name: Kaggle
 description: "Create and interact with Datasets, Notebooks, and connect with Kaggle"
 url: https://www.kaggle.com/docs/api
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
