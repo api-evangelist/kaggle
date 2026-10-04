@@ -39,7 +39,6 @@ apis:
   - name: Kaggle
     description: "Create and interact with Datasets, Notebooks, and connect with Kaggle"
     humanURL: https://www.kaggle.com/docs/api
-    baseURL: https://www.kaggle.com/docs/api
     tags:
       - Open Data
     properties:
